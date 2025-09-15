@@ -28,6 +28,5 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapi
 </div>
 <br>
 
-<br>
 Last update: Sep 2025
-</div>
+
