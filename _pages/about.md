@@ -29,8 +29,8 @@ latest_posts:
 
 Two guiding principles shape our research:
 <ol>
-  <li><strong>Scalability</strong> — building systems that scale with data size, heterogeneity, and number of users</li>
-  <li><strong>Practical Impact</strong> — addressing problems that matter to real uses and real-world applications</li>
+  <li>Scalability — building systems that scale with data size, heterogeneity, and number of users</li>
+  <li>Practical Impact — addressing problems that matter to real uses and real-world applications</li>
 </ol>
 
 <h3>Research Themes</h3>
