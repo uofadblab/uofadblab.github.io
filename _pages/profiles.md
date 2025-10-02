@@ -11,4 +11,5 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     content: about_davood.md
+    image: davood.jpg
 ---
