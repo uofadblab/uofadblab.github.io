@@ -9,15 +9,15 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "Projects",
+  },{id: "nav-recent-projects",
+          title: "Recent Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-publications",
-          title: "Publications",
+        },{id: "nav-recent-publications",
+          title: "Recent Publications",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -35,8 +35,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-tafseer-s-kidlm-paper-received-the-best-resource-paper-award-at-emnlp-2024",
+          title: 'Tafseer’s KidLM paper received the Best Resource Paper Award at EMNLP 2024.',
+          description: "",
+          section: "News",},{id: "news-mohammadreza-received-the-best-master-s-thesis-award-from-the-canadian-artificial-intelligence-association-caiac",
+          title: 'Mohammadreza received the Best Master’s Thesis award from the Canadian Artificial Intelligence Association...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
