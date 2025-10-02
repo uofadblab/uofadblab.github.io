@@ -39,7 +39,7 @@ ninja.data = [{
           title: 'Tafseer’s KidLM paper received the Best Resource Paper Award at EMNLP 2024.',
           description: "",
           section: "News",},{id: "news-mohammadreza-received-the-best-master-s-thesis-award-from-the-canadian-artificial-intelligence-association-caiac",
-          title: 'Mohammadreza received the Best Master’s Thesis award from the Canadian Artificial Intelligence Association...',
+          title: 'Mohammadreza received the Best Master’s Thesis Award from the Canadian Artificial Intelligence Association...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
