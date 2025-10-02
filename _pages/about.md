@@ -23,9 +23,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<div align="justify">
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-</div>
+Our mission is to democratize data access through building intelligent systems for all stages of data processing and access pipeline. We work at the intersection of databases and language modelling, leveraging large language models (LLMs) to tackle challenges in understanding data, users, and queries.
+
+### Two guiding principles shape our research:
+1. **Scalability** -- building systems that scale with data size, heterogeneity, and number of users
+2. **Practical Impact** -- addressing problems that matter to real uses and real-world applications
+
+### Research Themes
++ **Natural language interface to databases (NLIDB)**
+Most organizational data resides in relational databases and is accessed via SQL, which poses barriers for users without technical expertise. Our goal is to design NL2SQL systems that allow users to pose queries in natural language and receive the information they need. These systems reduce the cost and time of data access for non-technical users while also accelerating query generation for technical users.
++ **Data Wrangling and Transformation**
+Real-world data is often noisy, incomplete, or inconsistently structured, making it difficult to integrate and use in downstream tasks. Even when corporate databases are well-structured and documented (e.g., customer tables), external data from the Web or open government sources rarely is. We develop methods for data cleaning, transformation, and integration that enable seamless use of heterogeneous data sources.
++ **Understanding Users and Content**
+Building intelligent data pipelines requires modeling both users and the data itself. Users vary in skill and interaction styles, while content may undergo different processing stages before publication. We study user behavior, content characteristics, and pipeline transformations to design systems that adapt to diverse users and heterogeneous data.
+
 <br>
 
 
