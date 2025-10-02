@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Mohammadreza received the Best Master’s Thesis award from the Canadian Artificial Intelligence Association (CAIAC).
+Mohammadreza received the Best Master’s Thesis Award from the Canadian Artificial Intelligence Association (CAIAC).
