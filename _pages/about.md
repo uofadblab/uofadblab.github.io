@@ -27,7 +27,7 @@ latest_posts:
 <div align="justify">
 <p>Our mission is to democratize data access through building intelligent systems for all stages of data processing and access pipeline. We work at the intersection of databases and language modelling, leveraging large language models (LLMs) to tackle challenges in understanding data, users, and queries.</p>
 
-<h3>Two guiding principles shape our research:</h3>
+Two guiding principles shape our research:
 <ol>
   <li><strong>Scalability</strong> — building systems that scale with data size, heterogeneity, and number of users</li>
   <li><strong>Practical Impact</strong> — addressing problems that matter to real uses and real-world applications</li>
