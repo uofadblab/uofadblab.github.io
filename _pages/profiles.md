@@ -13,7 +13,6 @@ profiles:
     content: about_davood.md
     image: davood.jpg
 
-
 ---
 <h3>Current Ph.D. Students</h3>
 <ul>
@@ -98,4 +97,4 @@ profiles:
     <li>Qing Shi, NSERC Undergrad Summer Student, 2003 — First Employment: Department of Statistics, University of Alberta</li>
     <li>Andrew Lau, NSERC Undergrad Summer Student, 2002 — First Employment: IBM Toronto Lab</li>
   </ul>
----
+
