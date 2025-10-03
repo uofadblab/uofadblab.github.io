@@ -20,7 +20,6 @@ profiles:
   <li><a href="https://www.linkedin.com/in/sepideh-entezari">Sepideh Entezari Maleki</a>, Tentative topic: Text to SQL</li>
   <li><a href="https://www.linkedin.com/in/soroushomidvar/">Soroush OmidvarTehrani</a>, Tentative topic: Data wrangling and integration</li>
   <li><a href="https://tafseer-nayeem.github.io">Mir Tafseer Nayeem</a>, Tentative topic: User-centric modeling and synthesis of content</li>
-  <li><a href="https://www.linkedin.com/in/arashdn">Arash Dargahi</a>, Topic: Transforming tables for heterogeneous joins</li>
 </ul>
 
 <h3>Current M.Sc. Students</h3>
