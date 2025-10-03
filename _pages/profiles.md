@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: profiles
 permalink: /people/
 title: People
 description: Members of the lab.
@@ -12,9 +12,8 @@ profiles:
   - align: right
     content: about_davood.md
     image: davood.jpg
-
 ---
-<h3>Current Ph.D. Students</h3>
+<!-- <h3>Current Ph.D. Students</h3>
 <ul>
   <li><a href="https://www.linkedin.com/in/mahadi-nahid">Md. Mahadi Hasan Nahid</a>, Tentative topic: Tabular data reasoning</li>
   <li><a href="https://www.linkedin.com/in/sepideh-entezari">Sepideh Entezari Maleki</a>, Tentative topic: Text to SQL</li>
@@ -96,5 +95,5 @@ profiles:
     <li>Eric Coulthard, NSERC Undergrad Summer Student, 2004: Searching for paths in the Web graph — Current: Senior Programmer at Driving Force</li>
     <li>Qing Shi, NSERC Undergrad Summer Student, 2003 — First Employment: Department of Statistics, University of Alberta</li>
     <li>Andrew Lau, NSERC Undergrad Summer Student, 2002 — First Employment: IBM Toronto Lab</li>
-  </ul>
+  </ul> -->
 
