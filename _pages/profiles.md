@@ -12,4 +12,7 @@ profiles:
   - align: right
     content: about_davood.md
     image: davood.jpg
+  
+  - align: right
+    content: about_members.md
 ---
