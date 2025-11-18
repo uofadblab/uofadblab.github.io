@@ -16,5 +16,5 @@
 
 <h3>Current Undergrad Students</h3>
 <ul>
-  <li><a href="https://www.linkedin.com/in/brian-lin-12345678/">Brian Lin</a>, Topic: Text to SQL</li>
+  <li><a href="https://www.linkedin.com/in/brianlin333/">Brian Lin</a>, Topic: Text to SQL</li>
 </ul>
