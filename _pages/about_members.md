@@ -11,7 +11,6 @@
 <ul>
   <li><a href="https://www.linkedin.com/in/mohammadreza-daviran">Mohammadreza Daviran</a>, Topic: Text to SQL</li>
   <li><a href="https://www.linkedin.com/in/amin-habibllh">Amin Habibollah</a>, Topic: Text to SQL (tentative)</li>
-  <li><a href="https://www.linkedin.com/in/mohammad-javad-ardestani">Mohammadjavad Ardestani</a>, Topic: Evaluation of large language models</li>
 </ul>
 
 <h3>Current Undergrad Students</h3>
